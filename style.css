@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    width: 100%;
+    background: #6D9AC4;
+}
+.signup_section{
+    width: 330px;
+    padding: 2px 1px;
+    margin: 95px 37px 0px 293px;
+    background-color: #fff;
+    border-radius: 10px;
+    float: left;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+.signup_section h1, .login_section h1{
+    font-size: 18px;
+    color: #555555;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.sing_from p, .login_from p{
+  font-size: 15px;
+  color: #555555;
+  margin-left: 40px;
+}
+.sing_from input, .login_from input{
+    width: 75%;
+    margin-left: 40px;
+    border: 1px solid #C7C7C7;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+
+}
+.button{
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    padding: 12px 40px;
+    background-color: #ED5684;
+    border-radius: 10px;
+    border: 1px solid #ED5684;
+
+}
+.btn .button{
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    padding: 12px 40px;
+    background-color: #ED5684;
+    border-radius: 10px;
+    border: 1px solid #ED5684;
+
+}
+.button:hover{
+    box-shadow: 5px 10px 30px rgba(130, 147, 255, 0.5);
+    transition: all 0.5s ease-in 0.25;
+    outline: none;
+}
+hr{
+    position: relative;
+    margin-left: 40PX;
+    margin-right: 40PX;
+}
+button{
+    font-size: 15px;
+    text-align: center;
+    color: #ACACAC;
+    background-color: #fff;
+    padding: 8px 8px;
+    border: 1px solid #C7C7C7;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 142px;
+}
+.icon1, .icon2{
+    margin-left: 90px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.fa-google{
+    font-size: 15px;
+    color: #D24140;
+    border: 2px solid #D24140;
+    padding: 10px 10px;
+    border-radius: 50px;
+    margin-right: 8px;
+
+}
+.fa-facebook-f{
+    font-size: 15px;
+    color: #5D6BA6;
+    border: 2px solid #5D6BA6;
+    padding: 10px 12px;
+    border-radius: 50px;
+    margin-right: 8px;
+
+}
+.fa-linkedin-in{
+    font-size: 15px;
+    color: #537FC5;
+    border: 2px solid #537FC5;
+    padding: 10px 11px;
+    border-radius: 50px;
+
+}
+.fa-google:hover, .fa-facebook-f:hover, .fa-linkedin-in:hover{
+    box-shadow: 5px 10px 30px rgba(130, 147, 255, 0.5);
+    transition: all 0.5s ease-in 0.25;
+    outline: none;
+}
+.Already1{
+    font-size: 15px;
+    color: #646364;
+    text-align: center;
+    margin-bottom: 96px;
+}
+.Already2{
+    font-size: 15px;
+    color: #646364;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.login_section{
+    width: 330px;
+    padding: 2px 1px;
+    margin: 98px 6px 10px 0px;
+    background-color: #fff;
+    border-radius: 10px;
+    float: left;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+.btn p{
+    font-size: 15px;
+    color: #646364;
+    margin-left: 171px;
+    margin-bottom: 30px;
+}
+.chack input{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    margin-top: -4px;
+}
+.chack p{
+    font-size: 15px;
+    color: #646364;
+    margin-left: 70px;
+    margin-top: -10px;
+}
